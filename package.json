@@ -1,5 +1,5 @@
 {
-  "name": "mock-api-server",
+  "name": "mock-api-server-cli",
   "version": "1.0.0",
   "description": "CLI to easily start mock API server",
   "bin": {

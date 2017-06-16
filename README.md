@@ -8,7 +8,7 @@ And output stdout the request information. That's all.
 ## Install
 
 ```
-$ npm install -g mock-api-server
+$ npm install -g mock-api-server-cli
 ```
 
 ## Usage
