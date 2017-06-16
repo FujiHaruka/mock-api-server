@@ -1,0 +1,29 @@
+{
+  "name": "mock-api-server",
+  "version": "1.0.0",
+  "description": "CLI to easily start mock API server",
+  "bin": {
+    "mock-api-server": "./bin/server.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FujiHaruka/mock-api-server.git"
+  },
+  "keywords": [
+    "http-server"
+  ],
+  "author": "FujiHaruka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FujiHaruka/mock-api-server/issues"
+  },
+  "homepage": "https://github.com/FujiHaruka/mock-api-server#readme",
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "commander": "^2.9.0",
+    "sg-server": "^1.6.1"
+  }
+}
